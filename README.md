@@ -1,2 +1,2 @@
-# Biblioteca-QuickSort-e-MergeSort
+# Biblioteca BubbleSort, QuickSort e MergeSort
 Criar Biblioteca para BubbleSort, MergeSort e QuickSort
